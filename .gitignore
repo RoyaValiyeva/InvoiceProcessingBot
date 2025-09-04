@@ -1,0 +1,38 @@
+# UiPath specific files
+*.screenshots
+.local
+.objects
+.settings
+.tmh
+project.lock.json
+
+# Temporary files
+*~
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+*.logs
+
+# Output files (optional - you might want to show sample outputs)
+# Output/*.csv
+# Output/*.xlsx
+
+# System files
+desktop.ini
+.vscode/
+.vs/
+
+# Personal data (don't upload real company data)
+# Data/*
+
+# Backup files
+*.bak
+*.backup
+
+# UiPath Studio temporary files
+.execution/
+.metadata/
